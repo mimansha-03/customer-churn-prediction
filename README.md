@@ -4,11 +4,36 @@ An end-to-end machine learning application for predicting customer churn from te
 
 The project combines a scikit-learn classification pipeline with a Flask REST API and an interactive web interface that provides churn probability, risk classification, contributing factors, and aggregate churn analytics.
 
-**[🚀 Live Demo](https://customer-churn-prediction-vd7q.onrender.com)**
+<p align="center">
+  <a href="https://customer-churn-prediction-vd7q.onrender.com">
+    🚀 <strong>Live Demo</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://customer-churn-prediction-vd7q.onrender.com/dashboard">
+    📊 <strong>Dashboard</strong>
+  </a>
+</p>
 
-![Prediction UI](docs/screenshot_predict.png)
+---
 
-![Dashboard](docs/screenshot_dashboard.png)
+## 📸 Application Preview
+
+<table>
+  <tr>
+    <th align="center">Prediction Interface</th>
+    <th align="center">Analytics Dashboard</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_predict.png" alt="Customer churn prediction interface">
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_dashboard.png" alt="Customer churn analytics dashboard">
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Overview
 
