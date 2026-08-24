@@ -1,0 +1,38 @@
+{
+  "total_customers": 4000,
+  "overall_churn_rate": 26.0,
+  "avg_monthly_charges": 66.28,
+  "avg_tenure": 31.2,
+  "churn_by_contract": {
+    "Month-to-month": 43.0,
+    "One year": 4.6,
+    "Two year": 3.4
+  },
+  "churn_by_internet": {
+    "DSL": 20.1,
+    "Fiber optic": 39.0,
+    "No": 5.3
+  },
+  "churn_by_payment": {
+    "Bank transfer (automatic)": 18.1,
+    "Credit card (automatic)": 12.0,
+    "Electronic check": 41.8,
+    "Mailed check": 21.4
+  },
+  "churn_by_senior": {
+    "0": 23.5,
+    "1": 38.1
+  },
+  "churn_by_tenure_bucket": {
+    "0-12": 51.4,
+    "13-24": 25.2,
+    "25-36": 14.4,
+    "37-48": 9.8,
+    "49-60": 16.9,
+    "61-72": 4.2
+  },
+  "churn_distribution": {
+    "No": 2959,
+    "Yes": 1041
+  }
+}

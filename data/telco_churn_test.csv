@@ -1,0 +1,801 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+8038-TE00622,Female,0,Yes,Yes,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.93,1048.01,No
+5286-TE00593,Female,0,No,No,44,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),26.93,1138.29,No
+9512-UIBFX,Male,0,Yes,Yes,18,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,95.15,1779.95,Yes
+8501-TE00459,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.79,7567.6,No
+1010-DIAUQ,Male,0,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),96.5,492.55,Yes
+1914-TE00547,Male,0,Yes,Yes,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.52,1536.17,No
+7423-TE00272,Male,0,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109.09,7350.46,Yes
+3703-TE00416,Female,0,Yes,Yes,8,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,59.81,457.77,No
+8249-TE00686,Female,0,Yes,No,69,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),18.0,1270.07,No
+9040-TE00382,Female,0,Yes,No,0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101.45,0.0,Yes
+4629-NRXKX,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.4,147.15,Yes
+2678-TE00212,Male,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.24,243.48,No
+9907-TE00561,Male,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),93.73,4646.69,No
+2135-RXIHG,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.65,45.65,Yes
+6269-TE00253,Female,0,No,No,34,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,82.75,2795.06,No
+6201-TE00321,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.11,0.5,No
+6254-TE00170,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84.41,5638.29,No
+9485-TE00303,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,59.16,4193.76,No
+2253-TE00536,Female,0,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82.49,4153.77,No
+2904-TE00452,Male,0,No,No,3,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),24.57,73.0,Yes
+4765-TE00584,Male,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),22.79,1345.32,No
+1406-TE00455,Female,0,No,No,30,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79.34,2472.49,No
+6213-TE00548,Female,0,Yes,No,28,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),94.46,2649.97,No
+5967-TE00647,Male,1,No,No,71,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,53.49,3766.51,No
+8088-TE00286,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,23.86,1.69,No
+5924-SNGKP,Female,0,No,Yes,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.25,865.0,No
+6835-TE00186,Male,0,Yes,No,42,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84.38,3321.13,No
+5647-TE00563,Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,77.91,545.1,No
+3775-TE00672,Male,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.88,1484.26,Yes
+6042-TE00496,Male,0,No,No,45,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,101.72,4591.46,No
+8988-TE00141,Male,0,Yes,Yes,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,93.56,181.68,No
+7238-TE00004,Female,0,No,No,45,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.55,1125.92,No
+5355-TE00504,Female,0,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.28,271.27,No
+1727-TE00309,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85.13,5586.99,No
+6067-NGCEU,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.05,7107.0,No
+1658-BYGOY,Male,1,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,1752.55,Yes
+9372-TE00618,Male,0,Yes,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.39,244.73,No
+4556-TE00324,Male,1,No,No,29,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,73.67,2145.64,No
+2761-TE00722,Female,1,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),98.04,6026.78,No
+4974-TE00667,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),104.01,6209.93,No
+5905-TE00065,Male,0,Yes,Yes,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),21.14,1191.23,No
+9749-TE00176,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112.1,7600.15,No
+9475-TE00100,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60.93,4491.92,No
+6414-TE00249,Male,0,Yes,Yes,59,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.88,1241.69,No
+7217-TE00521,Female,0,Yes,No,29,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),102.04,2885.83,No
+6219-TE00451,Male,0,Yes,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.45,258.29,No
+2007-TE00349,Female,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),18.0,1251.49,No
+6654-TE00522,Male,1,No,No,32,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,76.63,2318.95,No
+3622-TE00530,Female,0,Yes,No,68,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.6,1281.95,No
+6341-TE00460,Male,0,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,18.99,0.0,No
+8198-TE00191,Male,0,Yes,No,12,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,78.13,951.07,No
+8647-TE00035,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,47.6,47.6,No
+3011-TE00592,Female,0,No,No,9,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,72.69,660.39,Yes
+1419-TE00220,Female,1,Yes,Yes,69,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90.77,6351.04,No
+7165-TE00262,Male,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.75,652.25,Yes
+7749-TE00294,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),113.88,7580.35,No
+7379-TE00372,Male,1,Yes,No,4,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96.95,376.53,No
+1905-TE00259,Male,0,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,18.8,0.0,No
+7038-TE00124,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,85.76,1804.93,No
+4269-TE00094,Female,0,Yes,Yes,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,18.0,976.2,No
+7604-TE00407,Male,0,Yes,No,27,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.63,1519.28,No
+1445-TE00649,Female,0,Yes,Yes,19,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.74,2032.76,No
+2076-TE00581,Female,0,No,No,32,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.99,2354.81,No
+2218-TE00232,Female,0,Yes,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,21.04,1026.19,No
+4089-TE00157,Female,0,Yes,Yes,68,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,59.05,4002.86,No
+3552-TE00348,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,86.9,5477.47,No
+6371-NZYEG,Male,0,Yes,Yes,16,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,64.25,1024.0,No
+5589-TE00713,Female,0,No,No,64,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108.99,6739.0,No
+5673-TE00283,Male,0,Yes,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,46.01,254.87,Yes
+8754-TE00012,Male,0,No,No,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.08,1119.7,Yes
+1031-TE00471,Female,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),22.58,1600.67,No
+6711-TE00118,Female,0,No,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.61,1209.75,No
+4846-TE00721,Male,0,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.89,82.61,No
+3071-VBYPO,Male,0,Yes,Yes,3,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,89.85,248.4,No
+0945-TSONX,Female,0,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.3,4107.25,No
+4404-TE00125,Female,0,No,No,33,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),35.71,1133.51,No
+3678-TE00291,Male,0,No,No,18,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,59.75,1023.19,No
+4675-TE00412,Female,0,No,No,22,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.65,991.49,No
+7895-TE00520,Female,0,No,No,26,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),56.14,1478.67,No
+8013-TE00494,Male,0,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.13,7648.36,No
+7523-TE00354,Male,0,Yes,No,16,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,88.87,1461.7,No
+4615-TE00063,Female,0,Yes,No,29,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),101.27,2782.25,No
+3580-REOAC,Male,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.85,435.4,Yes
+9598-TE00003,Male,0,No,No,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.48,1195.92,No
+7014-TE00438,Female,0,No,No,12,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,70.92,814.98,Yes
+2259-TE00709,Female,0,Yes,Yes,44,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),87.99,3921.78,No
+1298-TE00712,Female,0,Yes,Yes,64,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,47.24,3177.26,No
+7894-TE00201,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),82.02,5641.14,No
+4598-TE00287,Male,1,Yes,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.73,2679.31,Yes
+9318-TE00022,Female,0,Yes,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,82.51,1751.04,Yes
+3981-TE00567,Female,0,Yes,No,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),18.0,912.63,No
+3721-TE00641,Female,0,No,No,49,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56.12,2795.58,No
+8272-TE00207,Male,0,Yes,No,4,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,47.4,191.69,Yes
+2241-TE00319,Male,0,Yes,No,0,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,49.15,0.0,Yes
+1054-TE00554,Female,0,No,No,50,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),54.2,2747.49,No
+5051-TE00534,Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),69.26,1336.82,No
+8821-TE00631,Female,0,No,No,23,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,43.27,1044.75,No
+8714-TE00680,Male,1,No,No,68,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,53.27,3526.64,No
+5027-YOCXN,Male,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),110.05,5686.4,No
+4533-TE00676,Female,0,Yes,No,71,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),18.04,1258.49,No
+3218-TE00081,Male,0,Yes,Yes,4,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,88.38,353.79,No
+2479-TE00358,Female,0,Yes,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),21.08,1038.44,No
+8603-TE00023,Male,0,Yes,Yes,65,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),25.72,1646.27,No
+1345-TE00046,Male,0,No,No,13,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,51.13,652.76,No
+5130-TE00002,Female,0,No,No,17,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,88.37,1418.41,No
+3591-TE00130,Female,1,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.44,6324.67,No
+1854-TE00278,Female,0,Yes,Yes,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),106.68,1545.28,No
+3400-TE00690,Male,1,Yes,No,22,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.26,2063.26,Yes
+2760-TE00134,Male,0,No,No,14,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,59.99,839.59,No
+7574-TE00293,Male,0,No,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.74,1023.69,Yes
+4619-TE00351,Female,0,Yes,Yes,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.24,219.96,Yes
+9400-TE00441,Male,0,Yes,No,18,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,83.81,1558.91,No
+1100-TE00010,Female,0,Yes,Yes,69,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,58.72,4165.04,No
+4115-BNPJY,Male,0,Yes,Yes,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,75.55,2054.4,No
+1136-TE00646,Female,0,Yes,No,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),21.33,946.67,No
+9931-TE00036,Female,1,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),91.69,5892.02,No
+3649-TE00447,Male,0,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.5,7993.45,No
+8866-TE00703,Male,0,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),26.15,51.83,Yes
+6736-TE00135,Female,0,Yes,No,3,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.7,310.92,Yes
+8269-TE00161,Female,0,No,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.0,162.0,No
+3857-TE00242,Male,0,No,Yes,31,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),81.81,2429.83,No
+4336-TE00314,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,39.87,0.0,No
+4090-TE00044,Male,0,No,No,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,21.33,1245.83,Yes
+7217-TE00645,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.0,0.91,No
+2558-TE00136,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,42.23,177.05,Yes
+4351-TE00180,Female,0,Yes,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,82.57,1518.47,Yes
+5764-TE00517,Female,0,No,No,33,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),58.56,1911.84,No
+7255-SSFBC,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112.25,8041.65,No
+1062-TE00192,Female,1,Yes,No,60,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),98.32,6191.58,No
+5291-TE00582,Male,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),109.44,5458.15,No
+6573-TE00588,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.0,0.0,No
+6115-TE00222,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,47.93,939.32,No
+5498-TE00007,Female,0,No,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),110.54,6812.01,No
+5512-TE00614,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.42,241.89,Yes
+5403-TE00228,Female,1,Yes,No,23,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.54,2306.82,Yes
+5507-TE00432,Male,0,No,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.58,1269.35,No
+2131-TE00684,Male,0,No,No,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.52,1121.36,No
+7817-TE00240,Female,0,No,No,50,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56.67,2801.87,No
+1853-TE00570,Female,0,Yes,No,21,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,83.41,1763.2,Yes
+6411-TE00335,Male,0,Yes,Yes,0,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,93.67,0.0,No
+5005-TE00137,Female,0,No,No,32,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),54.11,1673.89,No
+9275-TE00458,Female,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,23.36,380.05,No
+9876-TE00409,Female,0,No,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),23.64,1012.38,No
+7629-TE00144,Female,0,No,No,45,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),61.64,2767.58,No
+9069-LGEUL,Male,0,Yes,No,23,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.95,1406.0,No
+9834-TE00390,Male,0,No,No,19,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),73.92,1464.41,No
+5972-TE00027,Female,0,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,82.87,1456.07,Yes
+8942-TE00252,Female,0,Yes,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),18.28,878.91,No
+1663-TE00578,Male,0,No,No,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,95.5,3842.35,No
+2506-TE00463,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,42.72,0.0,Yes
+7476-TE00566,Female,0,No,No,45,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),59.1,2827.33,No
+3192-NQECA,Male,0,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.0,7611.85,Yes
+2787-TE00664,Male,0,No,Yes,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,21.44,1201.78,No
+1705-TE00702,Male,0,Yes,No,18,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,81.43,1502.25,No
+4741-TE00445,Male,0,No,Yes,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.23,1172.12,No
+5989-TE00515,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.46,6280.23,No
+2841-TE00724,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.57,0.55,No
+8858-TE00670,Male,0,Yes,Yes,64,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84.45,5057.28,No
+6084-TE00439,Female,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,86.66,6194.83,No
+8595-TE00596,Female,0,No,No,27,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),54.22,1467.77,No
+3956-TE00190,Male,0,No,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.0,92.38,No
+5573-TE00541,Female,0,No,No,31,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,80.89,2348.77,No
+4858-TE00255,Male,1,No,No,67,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,55.76,3725.3,No
+1099-TE00268,Female,0,No,No,50,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),52.43,2464.87,No
+4594-TE00320,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46.64,135.96,Yes
+7601-TE00005,Female,0,Yes,Yes,67,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,50.29,3237.97,No
+9527-TE00074,Female,0,No,No,34,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31.46,1079.14,No
+9677-TE00276,Female,1,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72.06,415.13,Yes
+3528-TE00308,Female,0,Yes,Yes,68,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,59.93,3906.11,No
+1740-TE00366,Male,0,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.35,0.0,No
+7282-TE00235,Male,0,No,No,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),95.03,4327.07,No
+3816-TE00633,Female,0,No,No,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,87.17,5864.97,No
+2206-TE00059,Female,1,Yes,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.61,2535.8,Yes
+8174-TE00307,Female,0,No,No,32,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),30.53,985.4,No
+3666-TE00139,Male,0,No,No,16,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,53.73,880.84,No
+2425-TE00585,Male,1,Yes,No,26,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.6,2382.24,Yes
+2040-LDIWQ,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),84.2,5324.5,No
+1142-TE00662,Female,0,No,No,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,85.9,5330.37,No
+2299-TE00546,Male,0,Yes,No,45,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),86.72,3920.17,No
+4501-TE00508,Female,1,Yes,No,63,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),92.62,5753.56,No
+9794-TE00599,Male,0,No,No,14,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.25,616.14,Yes
+7864-TE00453,Female,0,No,No,16,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,42.82,672.72,No
+9194-TE00122,Male,1,No,No,69,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,50.11,3415.67,No
+4427-TE00639,Female,0,No,No,49,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56.57,2934.21,No
+5017-TE00615,Male,0,No,No,10,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,77.67,774.96,No
+8966-SNIZF,Female,0,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.45,1303.5,No
+4086-TE00502,Male,1,Yes,No,26,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.19,2371.72,Yes
+7782-TE00557,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,82.35,5366.68,No
+9304-TE00357,Male,0,Yes,No,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),102.84,5846.39,No
+6109-TE00529,Female,0,Yes,Yes,4,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,52.32,199.11,No
+1507-TE00368,Male,0,No,No,64,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.47,1276.38,No
+8961-TE00362,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,42.3,128.72,Yes
+8981-TE00173,Female,1,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),98.23,6350.41,No
+6437-TE00512,Female,0,Yes,Yes,48,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.31,4014.59,No
+1963-TE00495,Male,0,No,No,12,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55.17,685.06,No
+8994-TE00016,Male,0,Yes,No,40,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),85.02,3353.11,No
+6395-TE00576,Female,0,Yes,No,28,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),101.37,2665.34,No
+2461-TE00107,Male,0,No,No,17,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),75.34,1273.59,No
+2970-TE00716,Male,0,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112.81,7806.91,Yes
+7542-TE00480,Female,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108.8,7450.49,No
+9302-TE00216,Female,1,No,No,0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,67.95,2.1,Yes
+8348-TE00084,Female,0,No,No,44,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),27.46,1198.94,No
+6865-JZNKO,Female,0,No,No,30,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55.3,1530.6,No
+5810-TE00443,Female,0,No,No,28,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55.66,1575.21,No
+7068-TE00057,Male,0,Yes,No,71,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),113.22,8178.22,Yes
+2379-GYFLQ,Male,0,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),94.9,4422.95,No
+6469-MRVET,Male,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.2,20.2,No
+9748-TE00617,Female,0,Yes,Yes,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,21.73,1109.07,No
+5730-TE00281,Female,0,No,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.71,6860.69,No
+5416-TE00370,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),97.44,383.58,Yes
+6027-TE00687,Female,0,No,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.53,212.46,No
+8370-TE00061,Male,0,Yes,Yes,1,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,89.6,92.79,No
+2041-TE00008,Female,0,Yes,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),22.54,1103.82,No
+1339-TE00091,Female,0,No,No,39,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),32.85,1340.98,No
+6508-TE00090,Female,0,Yes,No,31,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),100.39,3230.09,No
+8705-WZCYL,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.8,44.8,No
+8958-TE00374,Male,0,No,No,4,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),28.52,122.15,Yes
+3310-TE00119,Male,1,No,No,8,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,74.12,567.87,No
+4024-TE00165,Male,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),97.72,4613.38,No
+6852-TE00650,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,83.14,5266.91,No
+4097-TE00656,Male,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),98.31,101.66,Yes
+5196-TE00062,Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),79.4,1608.7,No
+5840-TE00590,Female,0,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),87.6,3711.55,No
+8379-TE00237,Female,0,Yes,Yes,46,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),81.16,3559.73,No
+5522-TE00066,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90.78,1872.59,No
+2851-TE00399,Female,0,No,No,64,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),115.69,7185.33,No
+5804-LEPIM,Female,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.35,139.05,Yes
+2032-TE00654,Male,0,Yes,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),18.0,293.15,No
+9840-TE00681,Male,0,Yes,No,46,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),83.8,4086.3,No
+0318-ZOPWS,Female,0,Yes,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.15,973.35,No
+5024-TE00485,Male,0,No,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.47,39.48,No
+5323-TE00225,Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104.0,1571.01,No
+7505-TE00071,Male,0,Yes,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.84,290.23,No
+2067-TE00218,Female,0,No,No,20,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,93.91,1895.78,No
+7871-TE00160,Female,1,Yes,No,67,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),95.06,6329.89,No
+1366-TE00146,Female,0,No,No,22,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91.68,1946.89,No
+9203-TE00376,Female,0,No,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88.97,6329.31,No
+8093-TE00306,Female,0,No,No,19,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,85.94,1583.88,No
+4989-TE00058,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.61,555.52,Yes
+8070-TE00301,Female,0,Yes,No,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),19.75,1291.65,No
+3281-TE00330,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109.6,7803.42,No
+4062-TE00448,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.06,6091.38,No
+9378-TE00675,Male,0,Yes,No,39,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),85.7,3273.64,No
+9924-TE00352,Male,0,Yes,Yes,64,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,83.58,5431.35,No
+8645-KWHJO,Male,0,No,No,14,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55.0,771.95,No
+4888-TE00421,Male,1,Yes,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.02,2562.08,Yes
+1915-TE00034,Male,1,No,No,68,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,52.84,3604.03,No
+8615-TE00270,Female,0,No,No,32,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),32.21,982.38,No
+8028-PNXHQ,Male,0,Yes,Yes,62,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.25,1424.6,No
+9216-TE00185,Male,0,Yes,Yes,69,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,88.15,6272.86,No
+1002-TE00405,Female,0,No,No,32,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.52,2453.76,No
+7983-TE00551,Male,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44.21,213.91,Yes
+1554-TE00153,Male,0,Yes,No,26,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),61.03,1529.56,No
+9531-TE00138,Female,0,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.63,222.09,No
+9528-TE00519,Female,1,Yes,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.55,2079.59,Yes
+6239-TE00258,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.04,141.2,Yes
+2840-XANRC,Male,1,Yes,No,24,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.15,2231.05,Yes
+6712-TE00706,Female,0,Yes,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),18.82,859.22,No
+6336-TE00277,Female,0,No,No,29,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.18,2211.73,No
+8166-TE00282,Female,0,Yes,Yes,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.07,1090.95,No
+2088-IEBAU,Female,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88.15,6148.45,No
+6601-TE00257,Female,0,No,No,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),103.49,7010.88,No
+8418-TE00659,Male,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99.46,201.69,Yes
+3055-TE00555,Male,0,Yes,No,11,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,87.64,1006.14,No
+9828-TE00427,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),108.22,4963.91,No
+6527-TE00260,Female,0,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),84.29,3973.27,No
+9400-TE00211,Male,0,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),95.32,4632.25,No
+2372-HWUHI,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44.35,81.25,Yes
+5284-TE00510,Female,0,Yes,Yes,66,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,55.91,3900.36,No
+1999-TE00674,Female,0,No,No,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.26,1011.25,No
+3524-TE00009,Male,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.03,223.34,Yes
+7157-SMCFK,Male,0,No,Yes,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.75,1124.2,No
+5226-TE00388,Female,0,No,No,45,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56.75,2425.75,No
+9693-TE00217,Female,0,No,No,31,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),56.16,1720.1,No
+8085-TE00373,Male,1,No,No,19,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.69,1757.34,Yes
+7479-TE00108,Male,0,Yes,No,8,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,51.71,409.16,Yes
+5836-TE00475,Male,1,No,No,0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,71.94,0.0,No
+1723-TE00426,Female,0,No,No,19,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91.66,1801.44,No
+1044-TE00149,Female,0,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),87.1,4055.71,No
+1615-TE00350,Female,1,Yes,No,28,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.38,2527.3,Yes
+9432-TE00393,Male,0,No,No,4,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),27.29,104.45,Yes
+7948-TE00245,Female,0,Yes,Yes,68,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,50.59,3453.82,No
+5448-TE00254,Male,1,No,No,69,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,54.27,3782.03,No
+2009-TE00369,Female,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),22.16,1648.43,No
+4984-TE00419,Male,0,Yes,Yes,6,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,94.38,591.6,No
+7473-TE00102,Female,0,Yes,No,69,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),18.36,1274.23,No
+9634-TE00602,Male,0,No,Yes,6,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.0,112.0,No
+9435-TE00289,Male,0,Yes,No,26,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.51,1494.27,No
+4826-TE00089,Male,1,No,No,72,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,52.81,3749.15,No
+8971-TE00174,Male,1,No,No,6,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,81.04,482.61,No
+6059-TE00444,Male,1,No,No,5,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,76.08,361.24,No
+2805-TE00636,Male,1,No,No,5,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,74.89,362.72,No
+2693-TE00000,Male,0,Yes,No,12,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,82.24,1005.88,No
+9585-TE00569,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,43.94,135.4,No
+9520-TE00331,Male,0,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),92.3,466.73,Yes
+2031-TE00030,Female,0,No,No,28,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,74.14,2080.34,No
+4329-TE00040,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71.69,142.24,Yes
+8847-TE00226,Female,0,Yes,Yes,51,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.19,4747.72,No
+2119-TE00018,Male,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),47.27,572.22,Yes
+3721-TE00337,Male,0,Yes,Yes,67,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),82.92,5672.19,No
+1032-TE00015,Male,0,Yes,Yes,31,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,76.29,2402.49,No
+9661-TE00454,Female,0,No,No,69,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,85.31,5980.37,No
+8966-TE00660,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.84,221.64,Yes
+3181-TE00669,Male,0,No,No,12,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,54.14,679.36,No
+6700-TE00501,Male,0,Yes,Yes,0,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,90.09,0.0,No
+4679-TE00423,Female,0,Yes,Yes,66,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,51.42,3400.12,No
+6086-TE00420,Male,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,19.56,97.26,No
+6827-IEAUQ,Female,0,Yes,Yes,27,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,66.15,1874.45,No
+1090-TE00359,Male,1,No,No,72,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,58.48,4341.04,No
+1095-WGNGG,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),101.05,5971.25,No
+0191-ZHSKZ,Male,1,No,No,30,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.75,2111.3,No
+1849-TE00093,Male,0,Yes,Yes,67,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86.08,6087.55,No
+4634-TE00629,Female,0,Yes,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),18.36,887.31,No
+5984-TE00539,Male,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),111.4,5472.44,No
+8050-TE00338,Female,1,Yes,No,67,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),97.84,6473.82,No
+5922-TE00104,Female,0,No,No,33,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),23.25,764.08,No
+2039-TE00456,Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),71.78,1464.15,No
+8161-TE00465,Female,0,Yes,No,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.11,1393.41,No
+3989-TE00103,Female,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108.24,6482.31,No
+6310-TE00591,Male,0,Yes,Yes,13,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,65.73,846.9,No
+5703-TE00692,Female,1,Yes,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.49,1991.59,Yes
+3225-TE00183,Female,0,No,No,32,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),53.66,1819.14,No
+4083-TE00691,Male,1,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),92.79,190.7,No
+4649-TE00469,Male,0,Yes,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,48.87,48.87,Yes
+9294-TDIPC,Male,0,No,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.2,83.75,No
+5947-SGKCL,Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.35,1559.25,No
+2735-TE00261,Male,1,No,No,2,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,74.28,143.05,No
+8502-TE00182,Female,0,Yes,No,67,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),26.38,1754.58,No
+4649-TE00506,Female,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,79.97,1306.53,Yes
+9295-TE00371,Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.85,1510.61,No
+9747-TE00264,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.55,0.64,No
+2988-TE00404,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),75.34,1162.46,No
+5187-TE00343,Female,1,Yes,No,28,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.27,2745.71,Yes
+3768-TE00564,Female,0,Yes,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,79.12,1749.61,Yes
+8015-TE00640,Male,0,No,No,44,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),97.15,4364.2,No
+2350-TE00250,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.83,165.98,Yes
+6430-TE00383,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60.47,4368.2,No
+6727-IOTLZ,Male,0,Yes,No,14,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,81.95,1181.75,No
+1037-TE00175,Female,0,Yes,Yes,44,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),81.76,3706.02,No
+7563-BIUPC,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.6,415.55,Yes
+1755-TE00147,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),97.01,389.8,Yes
+9845-TE00473,Male,1,Yes,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.64,2597.79,Yes
+7038-TE00616,Male,0,Yes,No,7,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.92,378.51,Yes
+6709-TE00710,Female,0,No,No,27,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79.65,2183.52,No
+5248-TE00552,Male,0,Yes,No,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,46.19,226.55,Yes
+9379-TE00266,Female,0,Yes,No,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.54,1293.88,No
+6619-TE00597,Male,0,No,No,15,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),75.9,1140.03,No
+1463-TE00129,Male,1,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.25,2203.14,Yes
+4780-TE00163,Male,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,94.74,1244.45,Yes
+3793-TE00019,Male,0,No,No,14,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.56,1086.73,No
+7002-TE00457,Male,0,No,No,40,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,97.85,3952.8,No
+1315-TE00288,Female,1,Yes,No,62,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),96.02,5930.07,No
+1630-TE00470,Male,1,No,No,72,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,59.81,4270.15,No
+9552-TE00210,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.28,232.18,Yes
+8028-TE00110,Male,0,No,No,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,100.62,3884.06,No
+9070-TE00575,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.62,78.98,Yes
+2943-TE00322,Male,1,No,No,70,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,57.58,3863.02,No
+9286-TE00079,Male,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.86,495.92,Yes
+6443-TE00001,Male,1,No,No,5,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,77.96,389.81,No
+7004-TE00379,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),93.28,4299.24,No
+6928-TE00621,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,41.06,1.27,Yes
+3485-TE00203,Male,0,Yes,Yes,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),27.78,1771.21,No
+7014-ZZXAW,Female,0,Yes,No,71,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.25,1732.95,No
+3855-TE00440,Male,0,Yes,No,39,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84.05,3407.9,No
+6201-TE00114,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.54,0.36,No
+1441-TE00197,Female,0,Yes,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),21.2,1026.66,No
+8466-TE00162,Male,0,Yes,No,8,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,47.99,397.63,Yes
+6746-TE00014,Male,0,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),25.53,50.81,Yes
+3599-TE00688,Male,0,Yes,Yes,26,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.49,2032.94,No
+4654-TE00043,Male,1,No,No,2,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,72.03,146.96,No
+9354-TE00051,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,50.95,451.83,No
+6418-TE00586,Male,1,Yes,No,0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96.83,0.0,No
+5457-TE00215,Male,0,Yes,Yes,13,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,62.09,817.45,No
+9293-TE00164,Female,0,No,No,33,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),56.23,1954.49,No
+3282-ZISZV,Male,0,No,Yes,32,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),83.7,2633.3,No
+3190-TE00717,Female,0,No,No,6,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,70.82,426.36,Yes
+8323-TE00528,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112.96,8101.54,No
+6925-TE00720,Male,0,Yes,No,21,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.21,1188.2,No
+7745-TE00391,Female,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,21.56,356.77,No
+9859-TE00204,Female,0,No,No,20,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91.5,1873.72,No
+7547-TE00550,Female,0,Yes,Yes,44,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),86.68,3681.37,No
+8231-TE00042,Male,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,41.56,200.91,No
+4174-TE00154,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,87.89,5656.45,No
+3260-TE00682,Female,1,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.61,5870.55,No
+7001-TE00346,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.64,0.0,No
+7609-TE00360,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,83.71,5965.63,No
+5213-TE00200,Female,1,Yes,No,23,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.43,2411.91,Yes
+1886-TE00244,Female,0,Yes,Yes,60,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,57.29,3384.46,No
+2330-TE00477,Female,0,Yes,Yes,31,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,69.78,2225.57,No
+7823-TE00070,Male,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,41.16,204.14,No
+2026-TE00574,Female,0,No,No,29,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79.72,2276.3,No
+2025-TE00661,Female,1,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),86.12,5978.63,No
+2016-TE00652,Male,0,No,No,40,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,100.41,3860.06,No
+6803-TE00511,Male,0,Yes,No,54,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),100.51,5425.66,No
+7360-TE00295,Female,0,No,Yes,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),21.24,818.73,No
+7517-TE00194,Male,0,No,No,21,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),74.32,1573.67,No
+9252-TE00493,Male,0,No,Yes,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.06,60.19,No
+5468-TE00233,Female,0,Yes,No,28,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),100.64,2838.73,No
+7872-TE00236,Male,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.64,60.21,No
+1434-TE00377,Female,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,80.55,1317.83,Yes
+5256-SKJGO,Female,0,Yes,Yes,64,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,54.6,3423.5,No
+3752-TE00275,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.91,0.0,Yes
+1301-TE00297,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,42.89,0.95,Yes
+3851-TE00449,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46.78,0.0,Yes
+4150-TE00187,Male,0,Yes,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),21.35,191.23,No
+3669-TE00121,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,87.58,5496.04,No
+5341-TE00725,Female,0,Yes,Yes,0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.91,1.15,Yes
+2074-TE00598,Male,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,18.0,18.0,No
+7549-TE00033,Female,0,Yes,Yes,70,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,61.15,4367.22,No
+0867-MKZVY,Female,0,Yes,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,82.4,1592.35,Yes
+5489-TE00525,Female,0,Yes,Yes,60,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,55.36,3191.48,No
+4152-TE00365,Male,1,Yes,No,33,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.59,2442.4,Yes
+5961-TE00026,Female,0,No,No,29,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,78.51,2323.04,No
+3697-TE00403,Female,0,No,Yes,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),22.92,820.43,No
+8688-TE00644,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,77.11,316.6,Yes
+1544-TE00509,Male,0,Yes,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.54,319.0,Yes
+2889-TE00663,Male,1,No,No,28,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,73.76,2070.94,No
+5798-TE00105,Male,0,Yes,Yes,19,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,99.64,1836.62,Yes
+8341-TE00230,Female,0,No,No,49,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),58.8,2958.16,No
+7857-TE00355,Female,1,Yes,No,26,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.43,2522.98,Yes
+4392-TE00433,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),93.86,6772.43,No
+2736-TE00696,Male,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),23.13,1372.55,No
+7180-TE00075,Male,0,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.8,6957.51,Yes
+2797-TE00050,Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,78.05,539.85,No
+1555-TE00560,Male,1,No,No,33,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,75.27,2489.39,No
+1397-TE00623,Female,0,No,No,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,91.43,6468.79,No
+6158-TE00111,Male,0,Yes,Yes,61,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.09,1413.19,No
+6906-TE00467,Female,0,Yes,No,71,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.74,1752.91,No
+0742-MOABM,Male,0,Yes,No,4,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.05,179.35,Yes
+5267-TE00413,Female,0,No,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,86.25,6172.35,No
+7260-TE00715,Female,0,Yes,Yes,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71.72,382.47,Yes
+5121-TE00411,Female,0,Yes,No,24,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),98.35,2334.93,No
+8253-TE00247,Male,0,No,No,6,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.53,526.17,No
+6731-TE00279,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,46.64,0.0,Yes
+4009-TE00665,Male,1,Yes,No,0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.78,0.0,No
+2088-TE00068,Male,0,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,24.29,0.97,No
+8484-TE00296,Female,0,No,No,18,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.51,809.72,No
+1456-TE00067,Female,0,Yes,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),22.87,1105.95,No
+1460-TE00325,Male,0,No,Yes,36,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),82.18,2879.92,No
+9272-TE00189,Female,0,No,No,19,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,94.74,1799.91,No
+9359-TE00246,Male,0,Yes,No,61,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),99.29,6460.68,No
+4598-XLKNJ,Female,1,Yes,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.5,2514.5,Yes
+3271-TE00098,Male,0,Yes,Yes,17,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,65.11,1126.93,No
+8234-TE00579,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,38.68,77.95,Yes
+9185-TE00238,Female,0,Yes,Yes,46,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82.0,3732.3,No
+7621-TE00316,Female,1,Yes,No,62,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),96.42,5771.18,No
+8274-TE00671,Male,0,No,No,11,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,80.08,862.64,No
+3808-HFKDE,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.35,927.15,No
+4340-TE00333,Female,0,No,No,46,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),20.79,931.47,No
+7068-TE00334,Female,0,Yes,Yes,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,24.35,1238.28,No
+8350-TE00231,Male,0,No,No,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.42,1075.91,No
+8553-TE00280,Male,0,Yes,No,54,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),99.79,5587.7,No
+6366-ZGQGL,Male,0,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),24.8,24.8,Yes
+8831-TE00523,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),86.55,3892.89,No
+9139-TE00095,Male,1,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.27,2126.57,Yes
+1563-IWQEX,Female,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.7,220.35,No
+1621-TE00101,Male,0,No,No,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,21.54,1254.01,No
+3732-TE00171,Female,0,Yes,No,58,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),99.09,5492.89,No
+1370-TE00224,Male,0,No,No,9,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,78.92,708.83,No
+7832-TE00594,Female,0,Yes,No,5,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.46,513.43,Yes
+7576-TE00342,Male,0,No,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),48.31,277.68,Yes
+7444-TE00474,Female,0,Yes,No,59,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),100.78,5657.21,No
+8039-TE00198,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,82.56,5445.41,No
+9394-TE00537,Male,1,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,77.21,240.11,No
+6400-TE00080,Male,0,No,Yes,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.0,1204.51,No
+5143-TE00052,Female,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.56,1831.51,No
+9440-TE00375,Male,1,No,No,72,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,59.75,4460.23,No
+5427-TE00497,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,46.45,92.53,Yes
+1689-TE00267,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.78,545.78,Yes
+3499-TE00356,Male,0,No,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,95.56,4063.8,No
+4896-TE00213,Female,0,Yes,No,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),18.0,930.27,No
+9643-TE00039,Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,80.46,540.04,No
+7481-TE00425,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.05,998.4,No
+4855-TE00099,Male,0,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),97.81,793.7,Yes
+4010-TE00285,Male,1,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.76,1935.11,Yes
+8534-TE00408,Female,0,No,Yes,44,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.62,919.25,No
+3583-KRKMD,Male,0,No,No,18,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),75.9,1373.05,No
+1288-TE00478,Male,0,No,No,15,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,52.23,748.07,No
+2423-TE00148,Female,0,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),22.42,1667.98,No
+3125-TE00206,Male,0,Yes,No,17,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,78.85,1335.5,No
+2639-UGMAZ,Male,1,No,No,71,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,56.45,3985.35,No
+6499-TE00053,Female,0,No,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),112.5,7022.29,No
+9373-TE00248,Female,0,No,No,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),28.61,1062.95,No
+2306-TE00181,Male,1,No,No,31,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,71.34,2321.07,No
+1994-TE00464,Female,0,Yes,Yes,54,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.42,1109.85,No
+7382-TE00396,Female,1,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.67,336.34,Yes
+3923-TE00524,Female,0,No,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.95,157.29,No
+4631-TE00394,Female,0,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),97.87,5742.86,No
+5409-TE00694,Female,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,93.48,6227.71,No
+5697-TE00116,Male,0,No,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,22.8,1512.4,No
+3442-TE00041,Male,0,Yes,Yes,63,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),26.83,1728.05,No
+6413-TE00442,Female,0,No,No,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88.77,6043.43,No
+6177-TE00635,Female,1,Yes,Yes,69,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.99,5936.19,No
+5574-TE00461,Female,0,No,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,22.89,251.56,No
+5297-TE00020,Female,0,No,Yes,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),24.57,1060.24,No
+6092-TE00106,Female,1,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),93.34,5468.3,No
+2184-TE00227,Male,1,No,No,33,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,77.04,2530.83,No
+7805-TE00542,Male,0,No,No,18,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),75.39,1408.99,No
+5471-TE00507,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,58.58,4149.12,No
+3472-TE00516,Male,0,No,Yes,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.14,1166.4,No
+4111-TE00657,Male,0,No,No,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.84,1163.2,Yes
+9051-TE00484,Male,0,No,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,21.71,21.71,No
+8101-TE00634,Male,1,No,No,72,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,57.4,4285.33,No
+7657-TE00468,Male,0,No,No,15,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),79.72,1153.06,No
+0959-WHOKV,Male,0,No,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,99.0,4298.45,No
+7728-TE00711,Male,0,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,21.23,0.87,No
+6416-JNVRK,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),55.65,2688.85,No
+2025-TE00651,Male,0,No,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.0,1193.34,No
+4433-TE00083,Female,0,Yes,No,1,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,102.69,102.69,Yes
+7081-TE00531,Male,0,No,No,14,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55.46,758.03,No
+8421-TE00097,Male,0,Yes,No,11,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,82.4,891.65,No
+3410-YOQBQ,Female,0,No,No,31,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,79.2,2497.2,No
+4593-TE00437,Female,0,No,No,5,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,71.24,326.19,Yes
+5590-ZSKRV,Female,0,Yes,Yes,8,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,54.65,482.25,No
+1649-TE00700,Female,0,Yes,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,19.73,951.33,No
+6049-TE00683,Male,1,Yes,No,28,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.05,2534.45,Yes
+4080-TE00406,Female,0,No,No,21,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.79,974.57,No
+2649-TE00209,Male,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.44,1537.21,Yes
+2905-TE00462,Female,0,Yes,No,70,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.34,1772.74,No
+3119-TE00151,Male,1,No,No,2,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,74.81,154.22,No
+0303-UNCIP,Male,0,No,No,41,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,65.0,2531.8,No
+2884-TE00556,Male,0,Yes,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),18.0,303.66,No
+1235-TE00363,Female,0,No,No,64,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,92.76,6077.85,No
+3718-TE00290,Female,0,Yes,No,4,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.76,442.61,Yes
+4776-TE00155,Male,0,Yes,Yes,20,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,94.48,1876.04,Yes
+7654-YWJUF,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),84.25,3539.25,No
+4090-TE00705,Female,0,No,No,39,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),33.03,1277.38,No
+6210-TE00300,Female,0,Yes,Yes,67,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,50.68,3362.4,No
+9013-TE00395,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.9,0.0,Yes
+3416-TE00697,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),87.99,6507.06,No
+1020-TE00608,Male,0,Yes,Yes,33,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,73.23,2378.51,No
+5476-TE00620,Male,0,No,No,19,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.15,1436.72,No
+2484-TE00120,Female,0,Yes,No,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),19.63,1001.49,No
+6137-TE00610,Female,0,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),102.39,6234.0,No
+7274-TE00619,Male,0,No,Yes,31,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),82.98,2501.65,No
+1417-TE00429,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.11,416.4,Yes
+5772-TE00699,Female,0,Yes,Yes,28,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,64.58,1781.38,No
+8616-TE00595,Male,0,Yes,Yes,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,25.8,102.31,No
+3347-TE00698,Male,0,Yes,Yes,4,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,92.58,377.35,No
+3393-TE00088,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),111.85,5501.44,No
+9245-TE00677,Male,1,Yes,No,22,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.63,2001.06,Yes
+4623-TE00078,Male,0,No,No,44,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,68.49,3062.42,No
+6221-TE00483,Female,1,Yes,No,67,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),97.98,6596.32,No
+5372-TE00498,Female,0,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,81.56,1310.05,Yes
+2076-TE00601,Female,0,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),98.58,5639.08,No
+7435-TE00037,Female,0,Yes,No,25,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),104.78,2733.26,No
+7243-TE00152,Male,0,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.7,705.74,Yes
+2658-TE00718,Male,0,No,No,6,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,78.2,462.78,No
+4473-TE00029,Male,0,No,No,5,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),26.05,126.25,Yes
+2055-TE00347,Male,0,No,No,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.8,1192.44,Yes
+3178-TE00345,Male,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.26,7272.3,No
+6946-TE00045,Female,0,No,No,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,90.45,5870.03,No
+3146-MSEGF,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88.05,6425.65,No
+8114-TE00077,Male,0,Yes,Yes,12,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,63.31,753.5,No
+5553-TE00329,Male,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),101.51,5874.02,No
+8892-TE00679,Male,0,No,Yes,31,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),81.82,2548.59,No
+8597-TE00133,Male,0,Yes,Yes,55,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),112.69,6123.45,No
+9489-TE00603,Female,0,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),18.13,1227.61,No
+7633-TE00544,Female,0,No,Yes,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),21.04,893.75,No
+4080-OGPJL,Female,0,No,No,8,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,71.15,563.65,Yes
+1901-TE00577,Male,0,No,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,99.3,4045.34,No
+7799-LGRDP,Female,0,No,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.7,1188.2,No
+1649-TE00378,Female,0,Yes,Yes,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,54.13,321.41,No
+5188-TE00179,Female,0,No,No,64,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88.26,5657.12,No
+6065-TE00229,Male,0,No,No,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),46.41,323.57,Yes
+5968-TE00532,Male,0,Yes,No,3,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,52.46,153.77,Yes
+5092-TE00505,Female,0,No,No,29,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,78.51,2257.44,No
+8215-TE00513,Male,0,No,No,56,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.0,1024.67,Yes
+9420-TE00188,Female,0,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),98.64,5930.89,No
+6286-TE00223,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,57.7,397.9,No
+4150-TE00340,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),96.18,394.6,Yes
+2977-TE00076,Male,0,No,No,13,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,50.81,612.22,No
+4292-TE00562,Male,1,No,No,2,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,73.4,147.28,No
+9638-TE00638,Male,0,Yes,Yes,15,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,96.77,1476.39,Yes
+4995-TE00476,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.24,8491.38,No
+2571-TE00414,Male,1,No,No,5,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.85,381.48,No
+4193-TE00073,Female,0,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),102.52,2873.43,No
+1731-TE00072,Male,0,No,No,57,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,23.78,1390.78,Yes
+9482-TE00514,Female,0,No,No,24,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,43.88,1071.56,No
+1618-TE00668,Male,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.7,517.08,Yes
+7151-TE00527,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.22,8120.4,No
+5426-TE00274,Male,0,No,No,62,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.6,1104.25,Yes
+4433-TE00389,Male,0,No,No,57,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,21.33,1239.76,Yes
+5300-TE00251,Female,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.87,7795.24,No
+7404-TE00112,Female,0,No,No,34,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.75,2698.23,No
+2586-TE00049,Female,0,Yes,Yes,51,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,18.0,937.15,No
+7674-TE00609,Male,0,Yes,No,40,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),86.27,3466.01,No
+4360-TE00069,Female,0,Yes,Yes,18,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),102.37,1901.98,No
+2257-TE00689,Female,0,No,No,47,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),55.26,2521.86,No
+6986-TE00123,Female,0,Yes,No,21,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,81.58,1717.89,Yes
+7282-TE00205,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,42.49,887.75,No
+9946-TE00219,Male,0,No,No,0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30.85,0.18,Yes
+7830-TE00326,Male,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.48,1489.65,No
+7342-TE00048,Male,0,No,Yes,34,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),82.3,2783.64,No
+4024-TE00109,Female,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108.32,7067.32,No
+2064-TE00128,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,42.94,0.0,Yes
+9608-TE00364,Male,0,Yes,Yes,7,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,91.67,647.92,No
+3288-TE00172,Male,0,No,No,64,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.0,1140.49,No
+9121-TE00341,Male,0,No,No,10,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,81.03,752.28,No
+9678-TE00637,Male,1,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.54,2071.7,Yes
+3268-TE00055,Male,0,Yes,Yes,18,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,62.14,1083.27,No
+2112-TE00328,Male,0,No,Yes,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,22.45,1364.63,No
+6842-TE00558,Male,0,Yes,Yes,26,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,74.39,1920.38,No
+5028-TE00549,Female,0,No,No,23,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,43.89,995.08,No
+2836-TE00653,Male,0,Yes,Yes,18,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,61.52,1132.84,No
+3582-TE00145,Female,0,Yes,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,79.15,1616.78,Yes
+2999-TE00655,Female,1,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.03,280.43,Yes
+9936-TE00535,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),113.16,7387.03,No
+1527-TE00658,Female,0,No,No,33,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),29.73,967.91,No
+2692-TE00543,Male,1,Yes,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96.14,96.14,No
+9467-TE00312,Male,0,Yes,Yes,21,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,97.85,1982.51,Yes
+5805-TE00701,Female,0,No,No,43,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56.97,2385.29,No
+6526-TE00435,Male,0,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),91.71,740.09,Yes
+7378-TE00193,Male,0,Yes,No,23,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),59.37,1393.76,No
+4955-TE00707,Female,0,No,No,32,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,80.34,2653.57,No
+9955-TE00367,Female,0,Yes,Yes,10,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55.69,579.66,No
+1209-TE00422,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,47.99,0.21,Yes
+8522-TE00038,Female,0,Yes,No,4,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.0,410.57,Yes
+8364-TE00158,Male,0,Yes,Yes,26,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,81.1,2109.17,No
+1964-TE00624,Male,0,No,No,65,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,21.34,1389.53,No
+4700-TE00533,Female,0,No,Yes,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.32,779.28,No
+9420-TE00299,Male,0,Yes,Yes,64,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.91,1332.9,No
+2905-TE00159,Female,0,No,No,27,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),53.8,1441.04,No
+5989-TE00559,Male,0,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,19.23,0.0,No
+2787-TE00243,Female,0,Yes,No,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),18.0,1242.01,No
+9897-TE00336,Male,0,No,No,61,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,21.72,1289.02,No
+7374-TE00643,Male,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),18.82,196.81,No
+6762-TE00284,Male,0,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),95.46,487.62,Yes
+9777-TE00184,Female,0,Yes,Yes,23,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,60.26,1429.84,No
+3722-TE00553,Male,0,Yes,Yes,33,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,80.91,2614.47,No
+5374-TE00208,Female,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.3,299.01,No
+7923-TE00302,Male,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),49.27,446.32,Yes
+3931-TE00310,Male,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,43.49,221.49,Yes
+9462-TE00150,Male,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),19.57,1155.18,No
+6527-TE00685,Female,0,No,No,29,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,80.58,2330.21,No
+4884-TE00583,Female,0,Yes,Yes,48,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),87.23,4022.64,No
+8981-TE00398,Female,0,No,No,22,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91.7,1937.81,No
+8211-TE00273,Female,0,No,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,85.66,5504.66,No
+9209-TE00431,Male,1,Yes,No,20,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.07,1784.53,Yes
+2724-TE00565,Female,0,Yes,No,29,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),103.29,2887.57,No
+4934-TE00714,Male,1,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.49,2083.35,Yes
+1585-TE00666,Male,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.76,60.3,No
+7427-TE00648,Female,0,Yes,Yes,62,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,55.37,3384.85,No
+4175-TE00545,Female,0,No,Yes,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.11,839.87,No
+7093-TE00611,Female,0,Yes,Yes,16,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.35,1641.46,No
+1384-TE00571,Male,1,No,No,7,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,76.67,531.99,No
+2300-TE00604,Female,1,Yes,No,60,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),99.67,6003.38,No
+9325-TE00482,Female,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.55,1778.68,No
+2480-TE00503,Male,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,18.0,36.56,No
+6325-TE00011,Male,0,No,No,43,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,101.59,4544.83,No
+5700-TE00168,Male,1,No,No,26,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,72.28,1981.15,No
+6509-TE00085,Female,1,Yes,No,24,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.75,2401.65,Yes
+4909-TE00450,Female,0,Yes,Yes,23,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,63.68,1435.14,No
+0731-EBJQB,Female,0,Yes,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.4,1090.65,No
+4169-TE00466,Female,0,Yes,Yes,25,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,65.18,1645.64,No
+7272-TE00096,Female,0,Yes,Yes,12,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,52.96,646.51,No
+3923-TE00580,Male,0,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),95.11,464.29,Yes
+2702-TE00613,Female,0,No,No,31,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.64,2350.79,No
+9693-TE00605,Male,0,No,No,12,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.54,893.71,No
+4712-TE00678,Female,1,Yes,No,29,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.21,2788.71,Yes
+1263-TE00021,Male,0,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99.96,493.23,Yes
+8160-TE00489,Female,0,Yes,Yes,23,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,66.25,1514.49,No
+2883-TE00166,Male,1,No,No,30,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,77.8,2270.95,No
+6021-TE00500,Male,0,No,No,58,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.0,1032.76,Yes
+4319-TE00386,Female,0,No,No,22,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.86,1004.26,No
+1766-TE00479,Female,0,No,No,36,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),29.21,1090.6,No
+9135-TE00630,Female,0,No,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),26.62,1149.37,No
+6573-TE00132,Male,0,No,No,15,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),73.26,1067.84,No
+5518-TE00318,Female,0,Yes,No,31,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),99.56,2963.39,No
+8959-TE00323,Female,0,Yes,No,3,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,107.33,313.41,Yes
+3061-TE00606,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.4,133.98,Yes
+8090-TE00143,Female,0,No,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),26.21,1090.03,No
+0221-WMXNQ,Male,1,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.35,273.4,No
+8900-TE00568,Female,0,Yes,Yes,48,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),86.01,4032.07,No
+8018-TE00642,Female,0,No,No,24,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,40.97,990.82,No
+8721-TE00538,Female,1,Yes,No,26,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.65,2589.05,Yes
+7235-TE00472,Male,0,No,No,55,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,21.45,1197.0,Yes
+3868-TE00024,Female,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.27,288.98,No
+7637-TE00499,Male,0,Yes,Yes,30,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,74.91,2138.36,No
+2115-TE00332,Male,1,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,73.16,281.44,No
+7039-TE00428,Female,0,Yes,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.39,1067.51,No
+7233-PAHHL,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84.0,5714.25,No
+9639-BUJXT,Male,0,No,No,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.5,1328.15,No
+2429-TE00126,Female,0,No,No,7,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,68.83,465.82,Yes
+2990-TE00060,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.22,6176.86,No
+1875-QIVME,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.4,242.8,Yes
+8715-TE00632,Male,0,Yes,No,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,54.29,260.25,Yes
+3090-TE00156,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),90.62,4260.66,No
+6793-TE00415,Male,0,No,No,5,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),22.22,107.94,Yes
+7899-TE00304,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,53.0,379.79,No
+6914-TE00214,Female,0,Yes,No,26,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),101.74,2888.71,No
+1447-TE00344,Female,0,Yes,Yes,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.93,1879.03,No
+4733-TE00600,Male,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),21.92,1241.33,No
+2818-TE00317,Male,1,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.2,1633.86,Yes
+5719-TE00518,Male,1,Yes,No,26,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.99,2492.02,Yes
+8855-TE00424,Male,0,Yes,Yes,61,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),82.75,4961.92,No
+1844-TE00064,Male,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44.05,447.69,Yes
+6323-AYBRX,Male,0,No,No,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.35,1099.6,Yes
+4910-TE00397,Male,0,No,No,42,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,63.74,2589.16,No
+9267-TE00573,Male,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,95.41,1326.79,Yes
+1965-TE00054,Male,0,No,No,44,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),98.74,4517.44,No
+7929-TE00704,Female,0,No,No,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,84.16,5735.27,No
+4050-TE00446,Male,0,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),25.15,50.76,Yes
+4929-XIHVW,Male,1,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.5,181.65,No
+4654-DLAMQ,Female,1,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),97.0,6430.9,No
+5213-TE00082,Female,1,Yes,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,97.37,2570.41,Yes
+9560-BBZXK,Female,0,No,No,36,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31.05,1126.35,No
+7800-TE00418,Female,0,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),100.28,5974.23,No
+9136-TE00305,Male,0,Yes,Yes,25,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,77.77,1946.58,No
+9718-TE00113,Male,0,No,No,9,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),94.11,849.0,Yes
+2940-TE00142,Male,0,Yes,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,47.23,269.3,Yes
+9880-TDQAC,Female,0,Yes,Yes,72,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60.0,4264.0,No
+3306-TE00263,Female,0,No,No,35,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),32.95,1180.45,No
+8446-TE00221,Male,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),18.74,179.26,No
+1846-TE00627,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),109.41,7281.15,No
+7547-TE00177,Male,0,No,No,43,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),97.01,4141.63,No
+2861-TE00387,Male,0,No,No,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.27,0.0,No
+5312-TE00381,Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,83.04,597.01,No
+4629-TE00723,Male,0,Yes,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,49.42,50.44,Yes
+6799-TE00195,Female,0,No,No,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),26.24,995.43,No
+5334-TE00127,Male,1,No,No,1,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.42,75.42,No
+9426-TE00087,Male,0,Yes,Yes,15,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,94.2,1499.18,Yes
+7208-TE00481,Male,0,Yes,No,4,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.07,207.19,Yes
+3916-TE00327,Male,0,Yes,Yes,17,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,61.92,1058.59,No
+1804-TE00628,Male,1,No,No,31,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.72,2324.81,No
+5595-TE00402,Female,0,No,No,34,No,No phone service,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),30.82,1005.09,No
+6232-TE00031,Female,0,No,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.0,186.69,No
+3954-TE00491,Male,1,No,No,30,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,77.46,2339.79,No
+2898-TE00315,Female,0,No,No,32,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),52.61,1688.51,No
+4183-MYFRB,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90.05,1862.9,No
+5574-TE00693,Male,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,92.0,1245.55,Yes
+1361-TE00487,Female,1,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.39,310.34,Yes
+7360-TE00006,Male,1,No,No,33,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,75.25,2423.5,No
+4629-TE00131,Female,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.04,76.73,Yes
+9323-HGFWY,Female,0,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),101.9,2681.15,No
+4514-TE00434,Male,0,Yes,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),18.45,270.68,No
+6607-TE00353,Male,0,Yes,No,12,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,82.95,1004.06,No
+9484-TE00380,Male,0,No,No,15,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),74.77,1122.19,No
+4884-TE00292,Male,0,No,No,21,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),74.35,1623.91,No
+1176-TE00017,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),108.94,7893.13,No
+5997-TE00265,Male,0,No,Yes,35,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),82.95,2811.13,No
+2022-TE00490,Male,0,Yes,Yes,64,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),27.13,1850.69,No
+3466-TE00271,Female,0,No,No,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,88.41,5517.65,No
+8554-TE00167,Female,0,No,Yes,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),22.08,1002.06,No
+7410-OIEDU,Male,0,No,No,10,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.85,887.35,No
+9392-TE00241,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.67,173.35,Yes
+4177-TE00526,Female,0,Yes,Yes,44,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),84.55,3703.83,No
+4923-TE00313,Male,0,Yes,No,25,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),61.72,1518.86,No
+8763-TE00199,Female,0,Yes,Yes,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.48,998.07,No
+5682-TE00092,Male,0,Yes,No,3,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,52.53,160.63,Yes
+8496-TE00719,Female,0,Yes,Yes,9,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,57.38,517.53,No
+8923-TE00572,Male,0,Yes,Yes,4,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,94.21,378.59,No
+8963-TE00410,Female,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.47,1835.35,No
+5634-TE00708,Male,0,No,No,21,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.73,1695.88,No
+3623-TE00430,Male,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),98.22,200.05,Yes
+4244-TE00169,Male,0,Yes,Yes,12,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,65.1,771.11,No
+1532-TE00492,Female,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.43,1872.17,No
+1279-TE00488,Male,0,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),106.15,7112.23,Yes
+2079-TE00612,Female,0,Yes,No,0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,107.48,0.0,Yes
+8212-TE00115,Male,0,No,No,40,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,66.39,2616.38,No
+7385-TE00625,Male,0,No,No,44,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),89.62,3988.27,No
+7305-TE00401,Male,0,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),108.92,7094.05,Yes
+5554-TE00607,Female,0,No,No,5,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,70.12,362.03,Yes
+5356-TE00436,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,53.64,367.65,No
+8203-XJZRC,Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.25,20.25,No
+2155-TE00400,Male,0,No,No,21,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.16,1652.89,No
+6773-TE00486,Female,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.4,1807.77,No
+2949-TE00673,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99.49,395.01,Yes
+9442-TE00178,Male,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99.33,291.62,Yes
+0265-EDXBD,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.9,2303.35,Yes
+4345-TE00239,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,42.2,167.09,Yes
+8433-TE00385,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,43.18,49.04,Yes
+9089-TE00086,Male,0,No,No,16,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,54.82,866.94,No
+9220-TE00202,Male,0,Yes,No,41,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),83.11,3554.48,No
+2110-TE00117,Female,0,No,No,17,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91.66,1591.09,No
+9058-TE00311,Male,0,Yes,No,40,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),83.53,3533.9,No
+7547-TE00339,Female,0,Yes,Yes,0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.29,1.25,Yes
+8209-TE00417,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44.6,0.0,Yes
+7988-TE00269,Male,0,Yes,Yes,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.98,64.25,No
+1296-TE00695,Male,0,Yes,Yes,31,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,76.2,2319.83,No
+3934-TE00234,Female,0,No,No,5,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,72.23,357.51,Yes
+8761-TE00587,Female,0,Yes,No,0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,106.62,0.0,Yes
+7960-TE00056,Female,0,Yes,No,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.4,1661.82,No
+3495-TE00589,Male,0,No,Yes,64,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,18.39,1132.78,No
+1388-TE00025,Male,1,Yes,No,5,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),96.75,479.82,No
+9676-TE00298,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),113.5,8016.03,No
+4073-TE00013,Male,0,No,No,40,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,71.51,2887.32,No
+6664-TE00384,Female,0,Yes,Yes,19,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),107.25,2035.15,No
+6682-TE00256,Male,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.24,128.87,Yes
+9264-TE00140,Female,0,No,No,17,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,88.28,1479.66,No
+7682-TE00392,Male,0,Yes,Yes,64,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86.79,5642.56,No
+6787-TE00047,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),93.11,4579.3,No
+7861-TE00540,Female,1,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72.6,297.71,Yes
+8091-TTVAX,Male,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),100.35,5681.1,No
+1623-TE00626,Male,0,No,No,0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,39.76,0.0,Yes
+1680-VDCWW,Male,0,Yes,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.8,202.25,No
+5017-TE00032,Male,0,No,Yes,35,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),87.07,3081.7,No
+3897-TE00196,Male,0,Yes,Yes,18,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,63.11,1106.43,No
+8905-TE00361,Male,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),45.04,411.73,Yes
+3935-TE00028,Male,1,No,No,33,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,76.79,2492.0,No

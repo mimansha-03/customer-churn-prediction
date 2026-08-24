@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Churn Radar — Predict Customer Churn</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true">
+      <svg viewBox="0 0 32 32" width="22" height="22">
+        <circle cx="16" cy="16" r="3" fill="currentColor"/>
+        <circle cx="16" cy="16" r="9" fill="none" stroke="currentColor" stroke-width="2" opacity="0.55"/>
+        <circle cx="16" cy="16" r="15" fill="none" stroke="currentColor" stroke-width="2" opacity="0.25"/>
+      </svg>
+    </span>
+    Churn Radar
+  </div>
+  <div class="nav-links">
+    <a href="/" class="active">Predict</a>
+    <a href="/dashboard">Dashboard</a>
+  </div>
+</nav>
+
+<main class="page">
+  <header class="page-head">
+    <p class="eyebrow">Telco customer intelligence</p>
+    <h1>Will this customer churn?</h1>
+    <p class="subhead">Enter a customer's account details below. The model — trained on an augmented dataset derived from real IBM Telco Customer Churn records — returns a live churn probability, risk tier, and the factors driving the score.</p>
+  </header>
+
+  <div class="workspace">
+    <form id="predict-form" class="panel form-panel">
+      <fieldset>
+        <legend>Account</legend>
+        <div class="grid-2">
+          <div class="field">
+            <label for="tenure">Tenure (months)</label>
+            <input type="number" id="tenure" name="tenure" min="0" max="72" value="12" required>
+          </div>
+          <div class="field">
+            <label for="Contract">Contract</label>
+            <select id="Contract" name="Contract">
+              <option>Month-to-month</option>
+              <option>One year</option>
+              <option>Two year</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="MonthlyCharges">Monthly charges ($)</label>
+            <input type="number" id="MonthlyCharges" name="MonthlyCharges" min="0" step="0.01" value="70.35" required>
+          </div>
+          <div class="field">
+            <label for="TotalCharges">Total charges to date ($)</label>
+            <input type="number" id="TotalCharges" name="TotalCharges" min="0" step="0.01" value="845.40" required>
+          </div>
+          <div class="field">
+            <label for="PaperlessBilling">Paperless billing</label>
+            <select id="PaperlessBilling" name="PaperlessBilling">
+              <option>Yes</option>
+              <option>No</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="PaymentMethod">Payment method</label>
+            <select id="PaymentMethod" name="PaymentMethod">
+              <option>Electronic check</option>
+              <option>Mailed check</option>
+              <option>Bank transfer (automatic)</option>
+              <option>Credit card (automatic)</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Profile</legend>
+        <div class="grid-2">
+          <div class="field">
+            <label for="gender">Gender</label>
+            <select id="gender" name="gender">
+              <option>Female</option>
+              <option>Male</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="SeniorCitizen">Senior citizen</label>
+            <select id="SeniorCitizen" name="SeniorCitizen">
+              <option value="No">No</option>
+              <option value="Yes">Yes</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="Partner">Has partner</label>
+            <select id="Partner" name="Partner">
+              <option>No</option>
+              <option>Yes</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="Dependents">Has dependents</label>
+            <select id="Dependents" name="Dependents">
+              <option>No</option>
+              <option>Yes</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Services</legend>
+        <div class="grid-2">
+          <div class="field">
+            <label for="PhoneService">Phone service</label>
+            <select id="PhoneService" name="PhoneService">
+              <option>Yes</option>
+              <option>No</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="MultipleLines">Multiple lines</label>
+            <select id="MultipleLines" name="MultipleLines">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No phone service</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="InternetService">Internet service</label>
+            <select id="InternetService" name="InternetService">
+              <option>Fiber optic</option>
+              <option>DSL</option>
+              <option>No</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="OnlineSecurity">Online security</label>
+            <select id="OnlineSecurity" name="OnlineSecurity">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No internet service</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="OnlineBackup">Online backup</label>
+            <select id="OnlineBackup" name="OnlineBackup">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No internet service</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="DeviceProtection">Device protection</label>
+            <select id="DeviceProtection" name="DeviceProtection">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No internet service</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="TechSupport">Tech support</label>
+            <select id="TechSupport" name="TechSupport">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No internet service</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="StreamingTV">Streaming TV</label>
+            <select id="StreamingTV" name="StreamingTV">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No internet service</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="StreamingMovies">Streaming movies</label>
+            <select id="StreamingMovies" name="StreamingMovies">
+              <option>No</option>
+              <option>Yes</option>
+              <option>No internet service</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+
+      <div class="form-actions">
+        <button type="submit" class="btn-primary" id="predict-btn">
+          <span class="btn-label">Run prediction</span>
+          <span class="btn-spinner" aria-hidden="true"></span>
+        </button>
+        <button type="button" class="btn-ghost" id="sample-btn">Load a sample customer</button>
+      </div>
+    </form>
+
+    <aside class="panel result-panel" id="result-panel">
+      <div class="result-empty" id="result-empty">
+        <svg viewBox="0 0 120 120" width="72" height="72" aria-hidden="true">
+          <circle cx="60" cy="60" r="52" fill="none" stroke="var(--line)" stroke-width="2"/>
+          <circle cx="60" cy="60" r="36" fill="none" stroke="var(--line)" stroke-width="2"/>
+          <circle cx="60" cy="60" r="4" fill="var(--line)"/>
+        </svg>
+        <p>Fill in the form and run a prediction to see the churn risk score here.</p>
+      </div>
+
+      <div class="result-body" id="result-body" hidden>
+        <p class="eyebrow" id="risk-tier-label">Risk tier</p>
+        <div class="gauge-wrap">
+          <svg viewBox="0 0 200 120" class="gauge" id="gauge-svg">
+            <path d="M 20 110 A 80 80 0 0 1 180 110" fill="none" stroke="var(--line)" stroke-width="14" stroke-linecap="round"/>
+            <path d="M 20 110 A 80 80 0 0 1 180 110" fill="none" stroke="var(--gauge-color)" stroke-width="14" stroke-linecap="round"
+                  id="gauge-arc" stroke-dasharray="251.2" stroke-dashoffset="251.2"/>
+            <line x1="100" y1="110" x2="100" y2="42" stroke="var(--text)" stroke-width="3" stroke-linecap="round" id="gauge-needle"
+                  transform="rotate(-90 100 110)"/>
+            <circle cx="100" cy="110" r="6" fill="var(--text)"/>
+          </svg>
+          <div class="gauge-readout">
+            <span class="gauge-number" id="gauge-number">0%</span>
+            <span class="gauge-caption">likelihood to churn</span>
+          </div>
+        </div>
+
+        <div class="risk-badge" id="risk-badge">Low risk</div>
+
+        <div class="prob-bars">
+          <div class="prob-row">
+            <span>Churn</span>
+            <div class="prob-track"><div class="prob-fill fill-churn" id="bar-churn"></div></div>
+            <span id="pct-churn">0%</span>
+          </div>
+          <div class="prob-row">
+            <span>Retain</span>
+            <div class="prob-track"><div class="prob-fill fill-retain" id="bar-retain"></div></div>
+            <span id="pct-retain">0%</span>
+          </div>
+        </div>
+
+        <div class="factors">
+          <p class="factors-title">Key factors driving this score</p>
+          <ul id="factors-list"></ul>
+        </div>
+      </div>
+    </aside>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <span>Model: <span id="footer-model">—</span></span>
+  <span>Trained on the IBM Telco Customer Churn dataset</span>
+</footer>
+
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
